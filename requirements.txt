@@ -6,4 +6,3 @@ openai
 scikit-learn
 streamlit
 joblib
-pandasai
